@@ -23,6 +23,9 @@
 - [service waste management Locust Grove guide](https://local-business-guides.github.io/s-and-b-rolloff-inc-locust-grove/service-waste-management-locust-grove/): Compare commercial roll-off and transfer station options for service waste management Locust Grove customers.
 - [trash service mcdonough ga Locust Grove options](https://local-business-guides.github.io/s-and-b-rolloff-inc-locust-grove/trash-service-mcdonough-ga-locust-grove/): Find commercial waste options near McDonough with trash service mcdonough ga Locust Grove guidance.
 
+## Newsroom
+- [S & B Rolloff Inc Publishes Guide to Trash Service in McDonough](https://local-business-guides.github.io/s-and-b-rolloff-inc-locust-grove/news/2026-10-26-s-b-rolloff-inc-publishes-guide-to-trash-service-i/): S & B Rolloff Inc has published a guide to trash service in McDonough, with a YouTube video, podcast episode and SoundCloud audio version. (2026-10-26)
+
 ## Pages
 - [Trash Service Mcdonough Ga in Locust Grove, Georgia](https://local-business-guides.github.io/s-and-b-rolloff-inc-locust-grove/): Commercial roll-off service and a convenient transfer station help Locust Grove businesses manage waste close to home. Call +1770-914-7769.
 - [About S & B Rolloff Inc](https://local-business-guides.github.io/s-and-b-rolloff-inc-locust-grove/about/): About S & B Rolloff Inc, Locust Grove.
@@ -30,3 +33,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/s-and-b-rolloff-inc-locust-grove/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/s-and-b-rolloff-inc-locust-grove/news/rss.xml)

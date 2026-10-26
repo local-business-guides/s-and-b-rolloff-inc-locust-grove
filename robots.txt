@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/s-and-b-rolloff-inc-locust-grove/sitemap.xml
+Sitemap: https://local-business-guides.github.io/s-and-b-rolloff-inc-locust-grove/news-sitemap.xml
